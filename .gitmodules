@@ -1,0 +1,9 @@
+[submodule "EBFinanceBackend"]
+	path = EBFinanceBackend
+	url = https://gitee.com/yue-yong-x/yue-x-backend
+[submodule "EBFinance"]
+	path = EBFinance
+	url = https://gitee.com/yue-yong-x/yue-x-tauri
+[submodule "EffectEvaluaionFlutter"]
+	path = EffectEvaluaionFlutter
+	url = https://gitee.com/yue-yong-x/yue-x-flutter
