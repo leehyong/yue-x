@@ -7,3 +7,6 @@
 [submodule "EffectEvaluaionFlutter"]
 	path = EffectEvaluaionFlutter
 	url = https://gitee.com/yue-yong-x/yue-x-flutter
+[submodule "proto"]
+	path = proto
+	url = https://gitee.com/yue-yong-x/yue-x-proto
