@@ -10,3 +10,9 @@
 [submodule "proto"]
 	path = proto
 	url = https://gitee.com/yue-yong-x/yue-x-proto
+[submodule "spring-rs"]
+	path = spring-rs
+	url = https://gitee.com/yue-yong-x/spring-rs
+[submodule "sea-orm"]
+	path = sea-orm
+	url = https://gitee.com/yue-yong-x/yue-sea-orm
