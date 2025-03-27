@@ -4,9 +4,6 @@
 [submodule "EBFinance"]
 	path = EBFinance
 	url = https://gitee.com/yue-yong-x/yue-x-tauri
-[submodule "EffectEvaluaionFlutter"]
-	path = EffectEvaluaionFlutter
-	url = https://gitee.com/yue-yong-x/yue-x-flutter
 [submodule "proto"]
 	path = proto
 	url = https://gitee.com/yue-yong-x/yue-x-proto
@@ -16,3 +13,6 @@
 [submodule "sea-orm"]
 	path = sea-orm
 	url = https://gitee.com/yue-yong-x/yue-sea-orm
+[submodule "yx-flutter"]
+	path = yx-flutter
+	url = https://gitee.com/yue-yong-x/yue-x-flutter
