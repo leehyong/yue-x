@@ -1,18 +1,12 @@
 [submodule "EBFinanceBackend"]
 	path = EBFinanceBackend
-	url = https://gitee.com/yue-yong-x/yue-x-backend
-[submodule "EBFinance"]
-	path = EBFinance
-	url = https://gitee.com/yue-yong-x/yue-x-tauri
+	url = git@gitee.com:yue-yong-x/yue-x-backend.git
 [submodule "proto"]
 	path = proto
-	url = https://gitee.com/yue-yong-x/yue-x-proto
-[submodule "spring-rs"]
-	path = spring-rs
-	url = https://gitee.com/yue-yong-x/spring-rs
+	url =git@gitee.com:yue-yong-x/yue-x-proto.git
 [submodule "sea-orm"]
 	path = sea-orm
-	url = https://gitee.com/yue-yong-x/yue-sea-orm
+	url =git@gitee.com:yue-yong-x/yue-sea-orm.git
 [submodule "yx-flutter"]
 	path = yx-flutter
-	url = https://gitee.com/yue-yong-x/yue-x-flutter
+	url =git@gitee.com:yue-yong-x/yue-x-flutter.git
