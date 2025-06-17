@@ -1,12 +1,12 @@
 [submodule "EBFinanceBackend"]
 	path = EBFinanceBackend
-	url = git@gitee.com:yue-yong-x/yue-x-backend.git
+	url = git@github.com:leehyong/EBFinanceBackend.git
 [submodule "proto"]
 	path = proto
-	url =git@gitee.com:yue-yong-x/yue-x-proto.git
+	url = git@github.com:leehyong/proto.git
 [submodule "sea-orm"]
 	path = sea-orm
-	url =git@gitee.com:yue-yong-x/yue-sea-orm.git
+	url = git@github.com:leehyong/sea-orm.git
 [submodule "yx-flutter"]
 	path = yx-flutter
-	url =git@gitee.com:yue-yong-x/yue-x-flutter.git
+	url = git@github.com:leehyong/yx-flutter.git
